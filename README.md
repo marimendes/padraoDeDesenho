@@ -4,7 +4,7 @@ Repositório dedicado aos estudos de padrões de desenho
 ## Criação: 
 1- [Factory Method](factoryMethod/FactoryMethod.md)
 
-2- Abstract Factory
+2- [Abstract Factory](abstractMethod/abstractMethod.md)
 
 3- Builder
 
