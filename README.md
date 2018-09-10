@@ -6,7 +6,7 @@ Repositório dedicado aos estudos de padrões de desenho
 
 2- [Abstract Factory](abstractMethod/abstractMethod.md)
 
-3- Builder
+3- [Builder](builder/Builder.md)
 
 4- Prototype
 
